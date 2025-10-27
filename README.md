@@ -1,5 +1,5 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
-### 🔍 SingularMente DataLab 🧠
+### SingularMente DataLab 🧠
 Analizamos los trastornos mentales de forma global para conocer sus tendencias y patrones. Así podremos identificar factores de riesgo y protección para detectar los síntomas más precozmente.
 
 ### 🎬 Storytelling
