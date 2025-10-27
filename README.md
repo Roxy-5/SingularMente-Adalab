@@ -17,6 +17,7 @@ Ejecuta la presentación en Power BI.
 
 🪐 Autores
 Rocío Ramírez, Samai y Siuzanna
+
 ![](https://github.com/Roxy-5/Singular_Mente-Adalab/blob/main/logo_mente.jpeg)
 
 ### 🚀 Respuestas a las preguntas del cliente
