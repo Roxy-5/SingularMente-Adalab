@@ -7,9 +7,7 @@ Somos un grupo de cerebros curiosos que decidió mirar dentro… de otros cerebr
 
 Solo con datos, gráficos y muchas ganas de entender por qué a veces la mente unas veces hace “clic” y otras… “crash” 💥.
 
-Y, un día, los algoritmos empezaron a hablar: 
-
-*“Este patrón de ansiedad es sospechosamente repetitivo”*, dijo uno. *“Debe ser lunes”*, respondió otro. 
+Y, un día, los algoritmos empezaron a hablar: *“Este patrón de ansiedad es sospechosamente repetitivo”*, dijo uno. *“Debe ser lunes”*, respondió otro. 
 
 Así nació nuestra misión: convertir el caos mental en información clara y útil.
 
