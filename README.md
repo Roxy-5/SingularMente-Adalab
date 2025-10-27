@@ -19,19 +19,19 @@ Ejecuta la presentación en Tableau.
 Rocío Ramírez, Samai y Siuzanna
 
 ### 🚀 Respuestas a las preguntas del cliente
-1. **¿Qué tipología penal es más frecuente por trimestre?**
-![]()
+1. **¿Qué trastornos presentan mayor prevalencia hoy en día?**
+ ![]()
 La criminalidad convencional es la más frecuente en todos los trimestres.
 
-2. **Top 5 comunidades autónomas con más delitos por trimestre**
+2. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
 ![]()
 Cataluña, Andalucía, Madrid, Comunidad Valenciana y País Vasco.
 
-3. **¿Qué comunidades tuvieron más homicidios y asesinatos?**
+3. **¿Existen diferencias relevantes con otras poblaciones y países?**
 ![]()
 Comunidad Valenciana, Extremadura, Andalucía, Cantabria y Cataluña.
 
-5. **¿En qué periodos se concentran más delitos por tipología y trimestre?**
+4. **¿Cómo varía la prevalencia en función de sexo y etapas vitales?**
 ![]()
 En enero-diciembre del trimestre 4.
 
