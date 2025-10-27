@@ -9,7 +9,7 @@ Solo con datos, gráficos 📉 y muchas ganas de entender por qué a veces la me
 
 Un día, los algoritmos empezaron a hablar: *“Este patrón de ansiedad es sospechosamente repetitivo”*, dijo uno. *“Debe ser lunes”*, respondió otro. 
 
-Así nació nuestra misión: convertir el caos mental en información clara y útil para promover la adherencia al tratamiento, evitar las recaídas y mejorar la calidad de vida.
+Así nació nuestra misión: convertir el caos mental en información clara y útil para promover la adherencia al tratamiento, evitar recaídas y mejorar la calidad de vida.
 
 ### 🌍 Cómo usar  
 Clona este repositorio.    
