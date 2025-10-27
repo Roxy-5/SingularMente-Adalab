@@ -45,4 +45,5 @@ En enero-diciembre del trimestre 4.
 - 
 - 
 - 
-- 
+-
+![](https://github.com/Roxy-5/Singular_Mente-Adalab/blob/main/logo_mente.jpeg)
