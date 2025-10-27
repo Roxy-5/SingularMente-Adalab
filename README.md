@@ -1,5 +1,5 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
-### 🔍 Singular Mente Analytics 🧠
+### 🔍 SingularMente DataLab 🧠
 Analizamos los trastornos mentales de forma global para conocer sus tendencias y patrones.
 
 ### 🎬 Storytelling
@@ -7,7 +7,11 @@ Somos un grupo de cerebros curiosos que decidió mirar dentro… de otros cerebr
 
 Solo con datos, gráficos y muchas ganas de entender por qué a veces la mente unas veces hace “clic” y otras… “crash” 💥.
 
-Y, un día, los algoritmos empezaron a hablar: “este patrón de ansiedad es sospechosamente repetitivo”, dijo uno. “Debe ser lunes”, respondió otro. Así nació nuestra misión: convertir el caos mental en información clara y útil.
+Y, un día, los algoritmos empezaron a hablar: 
+
+*“Este patrón de ansiedad es sospechosamente repetitivo”*, dijo uno. *“Debe ser lunes”*, respondió otro. 
+
+Así nació nuestra misión: convertir el caos mental en información clara y útil.
 
 ### 🌍 Cómo usar  
 Clona este repositorio.    
