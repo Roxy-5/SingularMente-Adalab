@@ -15,11 +15,6 @@ Así nació nuestra misión: convertir el caos mental en información clara y ú
 Clona este repositorio.    
 Ejecuta la presentación en Power BI.
 
-🪐 Autores
-Rocío Ramírez, Samai y Siuzanna
-
-![](https://github.com/Roxy-5/Singular_Mente-Adalab/blob/main/logo_mente.jpeg)
-
 ### 🚀 Respuestas a las preguntas del cliente
 1. **¿Qué trastornos presentan mayor prevalencia hoy en día?**
  ![]()
@@ -48,3 +43,8 @@ En enero-diciembre del trimestre 4.
 - 
 - 
 -
+
+🪐 Autores
+Rocío Ramírez, Samai y Siuzanna
+
+![](https://github.com/Roxy-5/Singular_Mente-Adalab/blob/main/logo_mente.jpeg)
