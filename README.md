@@ -22,23 +22,28 @@ TDAH.
 
 2. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
 ![2](https://github.com/user-attachments/assets/7874f839-30a2-4688-b49a-f42afb39e6d2)
+
 El bipolar y TOC ha aumentado, mientras que TDAH ha disminuido.
 
 3. **¿Existen diferencias relevantes con otros países?**
-Alemania: más TOC y bipolar.
 ![3 1](https://github.com/user-attachments/assets/c0821b68-71ae-43c7-8b23-8aef103a1d6e)
-España: más TDAH y TEA.
+
+Alemania: más TOC y bipolar.
 ![3 2](https://github.com/user-attachments/assets/32bd733e-c8c7-46e1-b280-6e1173f5a9f7)
-Francia: más esquizofrenia y bipolar.
+
+España: más TDAH y TEA.
 ![3 3](https://github.com/user-attachments/assets/6059e298-b6f1-477e-95ea-d10a8d47f683)
-Italia: más TOC.
+
+Francia: más esquizofrenia y bipolar.
 ![3 4](https://github.com/user-attachments/assets/ccb32b29-6c1e-4e18-9034-bf3e12317021)
+
+Italia: más TOC.
   
-5. **¿Cómo varía la prevalencia en función de sexo?** 
+4. **¿Cómo varía la prevalencia en función de sexo?** 
 ![4](https://github.com/user-attachments/assets/f2ae4064-44a3-47d6-8aaf-4055f4861999)
 Los hombres muestran más TEA y TDAH; y las mujeres más TOC y bipolar.
 
-6. **¿Cómo varía la prevalencia en función de las etapas vitales?**
+5. **¿Cómo varía la prevalencia en función de las etapas vitales?**
 ![5](https://github.com/user-attachments/assets/0210ce0b-58e1-4a1a-b55a-73bed36f7836)
 La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el bipolar y TOC.
    
