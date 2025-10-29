@@ -57,19 +57,21 @@ Los hombres muestran más TEA y TDAH; y las mujeres más TOC y bipolar.
 La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el bipolar y TOC.
    
 ### 🌋 Hallazgos
-- El TDAH fue el trastorno con mayor prevalencia global entre 2020-2025.
-- El bipolar y el TOC muestran una tendencia creciente, mientras que el TDAH un ligero descenso.
-- Los hombres destacan más en TEA y TDAH; y las mujeres en TOC y bipolaridad.
-- En la infancia se concentra más TEA y TDAH, mientras que en la adultez (25-64 años) el bipolar, TOC y Esquizofrenia.
-- Los países analizados están muy próximos entre sí, donde Italia lidera con bipolaridad y TOC.
-- La edad y el sexo explican la mayor parte de las variaciones entre trastornos.
+- La caída del TDAH, así como el incremento de TOC y bipolaridad, sugieren una transformación en las dinámicas diagnósticas y sociales.  
+- Las variaciones por país reflejan diferencias culturales y del sistema sanitario que influyen en el diagnóstico y tratamiento.
+- Las diferencias entre hombres (más TEA y TDAH) y mujeres (más TOC y bipolar) apuntan a la necesidad de incorporar intervenciones en función del sexo.
+- Se confirma la infancia como la etapa de mayor detección de TEA y TDAH, pero la adultez media concentra los cuadros más graves (bipolar y TOC).
+- Los picos repetitivos en ansiedad y TOC detectados por los algoritmos podrían asociarse con eventos sociales o estacionales.
+- El patrón de recurrencia sugiere que los datos pueden anticipar brotes o recaídas.
 
 ### 🧭 Recomendaciones estratégicas
-- 
-- 
-- 
--
-
+- Normalizar las definiciones diagnósticas y periodos para evitar sesgos entre países.
+- Analizar la prevalencia de los trastornos por trimestre.
+- Identificar los factores asociados al aumento del bipolar y TOC. 
+- Añadir más variables como la fecha del diagnóstico, adherencia al tratamiento, número de recaídas, tiempo de espera hasta ser tratado...
+- Detectar perfiles de riesgo y crear dashboards de alertas.
+- Hacer entrevistas y cuestionarios para complementar los datos cuantitativos.
+  
 🪐 Autores
 
 Rocío Ramírez, Samai y Siuzanna
