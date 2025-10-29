@@ -21,12 +21,14 @@ Ejecuta la presentación en Power BI.
 
 TDAH.
 
-3. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
+2. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
+   
 ![2](https://github.com/user-attachments/assets/7874f839-30a2-4688-b49a-f42afb39e6d2)
 
 El bipolar y TOC ha aumentado, mientras que TDAH ha disminuido.
 
 3. **¿Existen diferencias relevantes con otros países?**
+   
 ![3 1](https://github.com/user-attachments/assets/c0821b68-71ae-43c7-8b23-8aef103a1d6e)
 
 Alemania: más TOC y bipolar.
@@ -41,6 +43,7 @@ Francia: más esquizofrenia y bipolar.
 Italia: más TOC.
   
 4. **¿Cómo varía la prevalencia en función de sexo?**
+   
 ![4](https://github.com/user-attachments/assets/f2ae4064-44a3-47d6-8aaf-4055f4861999)
 
 Los hombres muestran más TEA y TDAH; y las mujeres más TOC y bipolar.
