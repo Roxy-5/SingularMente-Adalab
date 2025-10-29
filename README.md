@@ -68,7 +68,7 @@ La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el 
 - Normalizar las definiciones diagnósticas y periodos para evitar sesgos entre países.
 - Analizar la prevalencia de los trastornos por trimestre.
 - Identificar los factores asociados al aumento del bipolar y TOC. 
-- Añadir más variables como la fecha del diagnóstico, adherencia al tratamiento, número de recaídas, tiempo de espera hasta ser tratado...
+- Añadir más variables como la fecha del diagnóstico, adherencia al tratamiento, crisis, tiempo de espera hasta ser tratado...
 - Detectar perfiles de riesgo y crear dashboards de alertas.
 - Hacer entrevistas y cuestionarios para complementar los datos cuantitativos.
   
