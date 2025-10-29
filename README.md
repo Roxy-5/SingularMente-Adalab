@@ -47,7 +47,7 @@ Italia: más TOC.
   
 4. **¿Cómo varía la prevalencia en función de sexo?**
    
-![4](https://github.com/user-attachments/assets/f2ae4064-44a3-47d6-8aaf-4055f4861999)
+![4](https://github.com/user-attachments/assets/8c2f3aa4-d447-46f1-b758-64b723c44430)
 
 Los hombres muestran más TEA y TDAH; y las mujeres más TOC y bipolar.
 
