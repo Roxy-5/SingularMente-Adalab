@@ -58,7 +58,7 @@ La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el 
    
 ### 🌋 Hallazgos
 - La caída del TDAH, así como el incremento de TOC y bipolaridad, sugieren una transformación en las dinámicas diagnósticas y sociales.  
-- Las variaciones por país reflejan diferencias culturales y del sistema sanitario que influyen en el diagnóstico y tratamiento.
+- Las variaciones por país reflejan diferencias culturales y sanitarias que influyen en el diagnóstico y tratamiento.
 - Las diferencias entre hombres (más TEA y TDAH) y mujeres (más TOC y bipolar) apuntan a la necesidad de incorporar intervenciones en función del sexo.
 - Se confirma la infancia como la etapa de mayor detección de TEA y TDAH, pero la adultez media concentra los cuadros más graves (bipolar y TOC).
 - Los picos repetitivos en ansiedad y TOC detectados por los algoritmos podrían asociarse con eventos sociales o estacionales.
