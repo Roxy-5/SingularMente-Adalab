@@ -33,11 +33,11 @@ Comunidad Valenciana, Extremadura, Andalucía, Cantabria y Cataluña.
 En enero-diciembre del trimestre 4.
 
 ### 🌋 Hallazgos
-- El TDAH es el trastorno con mayor prevalencia global entre 2020-2025.
-- El bipolar y el TOC muestran una tendencia creciente, mientras que el TDAH presenta un ligero descenso.
-- Los varones destacan más en TEA y TDAH; y las mujeres en TOC y bipolaridad.
-- La infancia concentra más TEA y TDAH, mientras que la adultez entre 25-64 años el bipolar, TOC y Esquizofrenia.
-- Los países son muy próximos entre sí, donde Italia lidera con bipolaridad y TOC.
+- El TDAH fue el trastorno con mayor prevalencia global entre 2020-2025.
+- El bipolar y el TOC muestran una tendencia creciente, mientras que el TDAH un ligero descenso.
+- Los hombres destacan más en TEA y TDAH; y las mujeres en TOC y bipolaridad.
+- En la infancia se concentra más TEA y TDAH, mientras que en la adultez (25-64 años) el bipolar, TOC y Esquizofrenia.
+- Los países analizados están muy próximos entre sí, donde Italia lidera con bipolaridad y TOC.
 - La edad y el sexo explican la mayor parte de las variaciones entre trastornos.
 
 ### 🧭 Recomendaciones estratégicas
