@@ -9,7 +9,7 @@ Solo con datos, gráficos 📉 y muchas ganas de entender por qué a veces la me
 
 Un día, los algoritmos empezaron a hablar: *“Este patrón de ansiedad es sospechosamente repetitivo”*, dijo uno. *“Debe ser lunes”*, respondió otro. 
 
-Así nació nuestra misión: convertir el caos mental en información clara y útil para promover la adherencia al tratamiento, evitar recaídas y mejorar la calidad de vida.
+Así nació nuestra misión: convertir el caos mental en información clara y útil para promover la detección temprana, adherencia al tratamiento, evitar recaídas y mejorar la calidad de vida en general.
 
 ### 🌍 Cómo usar  
 Clona este repositorio.    
@@ -33,10 +33,12 @@ Comunidad Valenciana, Extremadura, Andalucía, Cantabria y Cataluña.
 En enero-diciembre del trimestre 4.
 
 ### 🌋 Hallazgos
-- 
-- 
-- 
-- 
+- El TDAH es el trastorno con mayor prevalencia global entre 2020-2025.
+- El bipolar y el TOC muestran una tendencia creciente, mientras que el TDAH presenta un ligero descenso.
+- Los varones destacan más en TEA y TDAH; y las mujeres en TOC y bipolaridad.
+- La infancia concentra más TEA y TDAH, mientras que la adultez entre 25-64 años el bipolar, TOC y Esquizofrenia.
+- Los países son muy próximos entre sí, donde Italia lidera con bipolaridad y TOC.
+- La edad y el sexo explican la mayor parte de las variaciones entre trastornos.
 
 ### 🧭 Recomendaciones estratégicas
 - 
