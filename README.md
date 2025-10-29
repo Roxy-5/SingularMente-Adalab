@@ -32,12 +32,15 @@ El bipolar y TOC ha aumentado, mientras que TDAH ha disminuido.
 ![3 1](https://github.com/user-attachments/assets/c0821b68-71ae-43c7-8b23-8aef103a1d6e)
 
 Alemania: más TOC y bipolar.
+
 ![3 2](https://github.com/user-attachments/assets/32bd733e-c8c7-46e1-b280-6e1173f5a9f7)
 
 España: más TDAH y TEA.
+
 ![3 3](https://github.com/user-attachments/assets/6059e298-b6f1-477e-95ea-d10a8d47f683)
 
 Francia: más esquizofrenia y bipolar.
+
 ![3 4](https://github.com/user-attachments/assets/ccb32b29-6c1e-4e18-9034-bf3e12317021)
 
 Italia: más TOC.
