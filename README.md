@@ -18,9 +18,10 @@ Ejecuta la presentación en Power BI.
 ### 🚀 Respuestas a las preguntas del cliente
 1. **¿Qué trastorno presenta mayor prevalencia hoy en día?**
 ![1](https://github.com/user-attachments/assets/6abe0127-f6c3-4260-8521-b966e0d4c551)
+
 TDAH.
 
-2. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
+3. **¿Cómo ha evolucionado la salud mental a lo largo del tiempo?**
 ![2](https://github.com/user-attachments/assets/7874f839-30a2-4688-b49a-f42afb39e6d2)
 
 El bipolar y TOC ha aumentado, mientras que TDAH ha disminuido.
@@ -39,12 +40,14 @@ Francia: más esquizofrenia y bipolar.
 
 Italia: más TOC.
   
-4. **¿Cómo varía la prevalencia en función de sexo?** 
+4. **¿Cómo varía la prevalencia en función de sexo?**
 ![4](https://github.com/user-attachments/assets/f2ae4064-44a3-47d6-8aaf-4055f4861999)
+
 Los hombres muestran más TEA y TDAH; y las mujeres más TOC y bipolar.
 
 5. **¿Cómo varía la prevalencia en función de las etapas vitales?**
 ![5](https://github.com/user-attachments/assets/0210ce0b-58e1-4a1a-b55a-73bed36f7836)
+
 La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el bipolar y TOC.
    
 ### 🌋 Hallazgos
