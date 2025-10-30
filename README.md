@@ -69,7 +69,7 @@ La infancia concentra más TEA y TDAH; mientras que la adultez (25-64 años) el 
 - Analizar la prevalencia de los trastornos por trimestre.
 - Identificar los factores asociados al aumento del bipolar y TOC. 
 - Añadir más variables como la fecha del diagnóstico, adherencia al tratamiento, crisis, tiempo de espera hasta ser tratado...
-- Realizar entrevistas y cuestionarios para complementar los datos cuantitativos analizados.
+- Realizar entrevistas y cuestionarios para complementar los datos cuantitativos anteriormente analizados.
 - Detectar perfiles de riesgo y crear dashboards de alertas.
   
 🪐 Autores
