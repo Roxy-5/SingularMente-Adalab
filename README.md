@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
-### SingularMente DataLab 🧠
-Analizamos los trastornos mentales de varios países europeos desde el año 2020 hasta 2025 para conocer sus tendencias y patrones. Así podremos identificar factores de riesgo y protección para detectar los síntomas más precozmente.
+### 📊 SingularMente DataLab 
+Analizamos los trastornos mentales 🧠 de varios países europeos desde el año 2020 hasta 2025 para conocer sus tendencias y patrones. Así podremos identificar factores de riesgo y protección para detectar los síntomas más precozmente.
 
 ### 🎬 Storytelling
 Somos un grupo de cerebros curiosos que decidió mirar dentro… de otros cerebros. Pero tranquilidad, sin bisturí 🔪 ni pastillas 💊. 
@@ -11,11 +11,11 @@ Un día, los algoritmos empezaron a hablar: *“Este patrón de ansiedad es sosp
 
 Así nació nuestra misión: convertir el caos mental en información clara y útil para promover la adherencia al tratamiento, evitar recaídas y mejorar la calidad de vida en general.
 
-### 🌍 Cómo usar  
+### 🚀 Cómo usar  
 Clona este repositorio.    
 Ejecuta la presentación en Power BI.
 
-### 🚀 Respuestas a las preguntas del cliente
+### 🎯 Respuestas a las preguntas del cliente
 1. **¿Qué trastorno presenta mayor prevalencia hoy en día?**
 ![1](https://github.com/user-attachments/assets/6abe0127-f6c3-4260-8521-b966e0d4c551)
 
